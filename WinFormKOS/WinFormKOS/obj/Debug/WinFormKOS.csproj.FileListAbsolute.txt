@@ -1,0 +1,34 @@
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\bin\Debug\WinFormKOS.exe.config
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\bin\Debug\WinFormKOS.exe
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\bin\Debug\WinFormKOS.pdb
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.csprojAssemblyReference.cache
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormKurulum.resources
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormLogin.resources
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.Properties.Resources.resources
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.csproj.GenerateResource.cache
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.csproj.CoreCompileInputs.cache
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.exe
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.pdb
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormHome.resources
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormKitapEkle.resources
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormOkuyucuEkle.resources
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormEdit.resources
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormEmanet.resources
+C:\Users\Atabay\Desktop\Kurs Code\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormIstatistik.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\bin\Debug\WinFormKOS.exe.config
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\bin\Debug\WinFormKOS.exe
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\bin\Debug\WinFormKOS.pdb
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.csprojAssemblyReference.cache
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormEdit.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormEmanet.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormHome.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormIstatistik.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormKitapEkle.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormKurulum.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormLogin.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.FormOkuyucuEkle.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.Properties.Resources.resources
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.csproj.GenerateResource.cache
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.csproj.CoreCompileInputs.cache
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.exe
+C:\Users\mt\Downloads\WinFormKOS\WinFormKOS\obj\Debug\WinFormKOS.pdb

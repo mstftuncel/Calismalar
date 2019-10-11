@@ -1,0 +1,30 @@
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.exe.config
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.exe
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.pdb
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csprojAssemblyReference.cache
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.Form1.resources
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.Properties.Resources.resources
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csproj.GenerateResource.cache
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csproj.CoreCompileInputs.cache
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.exe
+C:\Users\Atabay\Documents\Visual Studio 2017\Projects\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.pdb
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.exe.config
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.exe
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.pdb
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csprojAssemblyReference.cache
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.Form1.resources
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.Properties.Resources.resources
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csproj.GenerateResource.cache
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csproj.CoreCompileInputs.cache
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.exe
+C:\Users\Atabay\Desktop\Yüklenecek Videolar\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.pdb
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.exe.config
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.exe
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\bin\Debug\WinFormOgrenciTakip.pdb
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csprojAssemblyReference.cache
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.Form1.resources
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.Properties.Resources.resources
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csproj.GenerateResource.cache
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.csproj.CoreCompileInputs.cache
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.exe
+C:\Users\mt\Downloads\WinFormOgrenciTakip\WinFormOgrenciTakip\obj\Debug\WinFormOgrenciTakip.pdb
